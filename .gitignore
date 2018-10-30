@@ -59,3 +59,9 @@ typings/
 
 # next.js build output
 .next
+
+NewToUSFE/.build/*
+NewToUSFE/.idea/*
+NewToUSFE/.vscode/*
+NewToUSFE/NewToUSFE.iml
+
