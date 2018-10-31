@@ -1,5 +1,4 @@
 .bowerrc
-.build/
 .editorconfig
 .eslintrc
 .nodemonignore
