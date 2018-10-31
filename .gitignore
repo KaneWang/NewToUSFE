@@ -1,3 +1,11 @@
+.bowerrc
+.build/
+.editorconfig
+.eslintrc
+.nodemonignore
+.npmignore
+.yo-rc.json
+package-lock.json
 # Logs
 logs
 *.log
