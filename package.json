@@ -5,6 +5,8 @@
     "author": "Kane Wang",
     "main": "index.js",
     "scripts": {
+        "start":"node server.js",
+        "deploy":"gcloud app deploy",
         "test": "grunt test",
         "build": "grunt build",
         "all": "npm run build && npm run test"
