@@ -1,7 +1,0 @@
-{>"layouts/master" /}
-
-{<body background="https://sites.psu.edu/global/files/2017/05/culture-1-2l1ume5.jpg"}
-    <h1>{@pre type="content" key="greeting"/}</h1>
-    <h2>nihao</h2>
-    <img src="https://sites.psu.edu/global/files/2017/05/culture-1-2l1ume5.jpg">
-{/body}
